@@ -1,0 +1,16 @@
+# Скомпилированные исполняемые файлы и бинарники тестов
+run_tests_rectangle
+run_tests_verylong
+*.o
+*.out
+*.exe
+*.exec
+
+# Игнорируем тяжелую документацию LaTeX, оставляя только HTML
+**/latex/
+
+# Системные файлы macOS и кэш редакторов
+.DS_Store
+.vscode/
+.idea/
+build/

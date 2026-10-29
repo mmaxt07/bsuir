@@ -1,0 +1,4 @@
+PROJECT_NAME           = "Verylong Project"
+INPUT                  = .
+EXTRACT_PRIVATE        = YES
+HAVE_DOT               = YES
